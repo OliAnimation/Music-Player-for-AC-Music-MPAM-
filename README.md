@@ -9,6 +9,8 @@ playsound
 	
 datetime (should be in python by default)
 
+pyobjc (MacOS only)
+
 
 File directory is | /home/AC Music (Linux) | /AC Music (MacOS) | C:/AC Music (Windows) |
 

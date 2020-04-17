@@ -12,6 +12,6 @@ datetime (should be in python by default)
 pyobjc (MacOS only)
 
 
-File directory is | /home/AC Music (Linux) | /AC Music (MacOS) | C:/AC Music (Windows) |
+File directory is | /home/AC Music (Linux) | /ACMusic (MacOS) (No Spaces) | C:/AC Music (Windows) |
 
 File Names are 01 AM, 02 AM, 11 AM etc.

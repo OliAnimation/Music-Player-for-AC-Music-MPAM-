@@ -6,7 +6,7 @@ New Dependencies:
 	
 	pygame
 	mutagen
-	*_pyobjc
+	*pyobjc
 	
 	*may be incorrect
 

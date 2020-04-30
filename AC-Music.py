@@ -4,7 +4,6 @@ import time
 from pygame import mixer
 from mutagen.mp3 import MP3
 
-os.add_dll_directory('C:\Program Files\VideoLAN\VLC')
 directory = input('Folder Directory ')
 while True:
         currentDT = datetime.datetime.now()

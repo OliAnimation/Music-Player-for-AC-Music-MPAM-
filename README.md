@@ -2,7 +2,8 @@
 Just a bad python 3 script that plays music by the hour.
 Designed for linux, will work elsewhere
 
-New Dependencies
+New Dependencies:
+	
 	pygame
 	mutagen
 	*_pyobjc

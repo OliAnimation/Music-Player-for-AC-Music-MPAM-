@@ -3,12 +3,12 @@ Just a bad python 3 script that plays music by the hour.
 Designed for linux, will work elsewhere
 
 
-Dependences:
+*Dependences:
 
-playsound
+*playsound
 	
-datetime (should be in python by default)
+*datetime (should be in python by default)
 
-pyobjc (MacOS only)
+*pyobjc (MacOS only)
 
-File Names are 01 AM, 02 AM, 11 AM etc.
+*File Names are 01 AM, 02 AM, 11 AM etc.
